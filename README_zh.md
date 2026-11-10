@@ -1,7 +1,6 @@
 <h1 align="center"> AI-CHATKIT </h1>
 <p align="center">
-  <a href="./README.md"  target="_Self">English</a> |
-  <strong style="background-color: green;">中文</strong>
+ 
 
 </p>
 ai-chatkit 是一个AI Agent全栈聊天工具，基于langGraph, fastApi, nextjs, chroma等组件搭建
